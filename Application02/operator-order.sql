@@ -15,3 +15,9 @@
 -- select * from shopapp.products where Name NOT LIKE '%Iphone%'
 -- select * from shopapp.products where Name  LIKE '%Iphone%' and Price > 4000
 -- select * from shopapp.products where Name  LIKE '%Samsung%' and Description LIKE '%çift%'
+
+-- Order - Kayıt Sıralama
+-- select * from shopapp.products order by Price
+-- select * from shopapp.products order by Name
+-- select * from shopapp.products order by Price DESC (büyükten küçüğe)
+-- select * from shopapp.products order by Category ,Price DESC
