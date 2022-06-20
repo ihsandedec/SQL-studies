@@ -1,9 +1,0 @@
--- SELECT * FROM shopapp.products;
--- select Name from shopapp.products
--- select Name,Price from shopapp.products
--- select Name as ProductName from shopapp.products
--- select Name as ProductName, Price as Fiyat from shopapp.products
--- select * from shopapp.products where Name = 'Samsung S5'
--- select * from shopapp.products where Price > 2000
--- select * from shopapp.products where Price >= 2000 and Price <= 4000
--- select * from shopapp.products where Name = 'Samsung S5' and (Price = 2000 or Price = 3000)
